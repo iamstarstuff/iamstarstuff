@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋, this is Pratik
 
 <!--
 **iamstarstuff/iamstarstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  [![Email][email-badge]][email]
+  [![GitHub][github-badge]][github]
+  [![Twitter][twitter-badge]][twitter]
+  
+  
+</div>
+
+<div align="justify">
+  I am currently pursuing Masters in Data Science from South East Technological University (SETU), Ireland. My interests lie in the fields of Image diffusion, NLP, neural networks, big data, etc. I am extremely passionate about science and technology. I am an amateur astronomer and astrophotographer. 
+ <\div>
+   
+   
+
+[email]: mailto:barvepratik96@gmail.com
+[github]: https://github.com/iamstarstuff/
+[twitter]: https://twitter.com/astropratikb
+
+  
+  
