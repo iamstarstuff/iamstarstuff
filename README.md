@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
   I am currently pursuing Masters in Data Science from South East Technological University (SETU), Ireland. My interests lie in the fields of Image diffusion, NLP, neural networks, big data, etc. I am extremely passionate about science and technology. I am an amateur astronomer and astrophotographer.
   
-<\div>
+</div>
    
    
 
