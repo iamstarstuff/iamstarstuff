@@ -1,4 +1,5 @@
 <div align="center">
+  
   ### Hi there 👋, this is Pratik
 
 <!--
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
   [![Email][email-badge]][email]
   [![GitHub][github-badge]][github]
   [![Twitter][twitter-badge]][twitter]
-  
   
 </div>
 
