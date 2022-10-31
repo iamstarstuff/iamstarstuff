@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="justify">
-  I am currently pursuing Masters in Data Science from South East Technological University (SETU), Ireland. My interests lie in the fields of Image diffusion, NLP, neural networks, big data, etc. I am extremely passionate about science and technology. I am an amateur astronomer and astrophotographer. 
- <\div>
+  
+  I am currently pursuing Masters in Data Science from South East Technological University (SETU), Ireland. My interests lie in the fields of Image diffusion, NLP, neural networks, big data, etc. I am extremely passionate about science and technology. I am an amateur astronomer and astrophotographer.
+  
+<\div>
    
    
 
@@ -34,4 +36,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/astropratikb
 
   
+[email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail
+[github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
+[twitter-badge]: https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter
   
