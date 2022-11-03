@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   [![Email][email-badge]][email]
   [![GitHub][github-badge]][github]
   [![Twitter][twitter-badge]][twitter]
+  [![LinkedIn][linkedin-badge]][linkedin]
   
 </div>
 
@@ -38,9 +39,11 @@ Here are some ideas to get you started:
 [email]: mailto:barvepratik96@gmail.com
 [github]: https://github.com/iamstarstuff/
 [twitter]: https://twitter.com/astropratikb
+[linkedin]: https://linkedin.com/in/pratik-barve/
 
   
 [email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github
 [twitter-badge]: https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin
   
