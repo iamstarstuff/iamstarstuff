@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   Check out these cool [Physics visualisations](https://github.com/iamstarstuff/PhysicStuff/tree/main/Physics%20Programs) and [Math](https://github.com/iamstarstuff/PhysicStuff/tree/main/Math%20Programs) codes I wrote. 
   
   [Link for my detailed CV](https://iamstarstuff.github.io/pratik-barve-cv/cv.pdf)
+  
+  Touch typing practice stats
+  <a href="https://data.typeracer.com/pit/profile?user=alpha_centauri&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=alpha_centauri" border="0" alt="TypeRacer.com scorecard for user alpha_centauri"/></a>
 </div>
    
 
