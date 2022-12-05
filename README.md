@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   [Link for my detailed CV](https://iamstarstuff.github.io/pratik-barve-cv/cv.pdf)
   
   <a href="https://data.typeracer.com/pit/profile?user=alpha_centauri&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=alpha_centauri" border="0" width=100px height=auto alt="TypeRacer.com scorecard for user alpha_centauri"/></a>
+  Learning touch typing 
 </div>
    
 
