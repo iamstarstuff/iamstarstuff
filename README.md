@@ -29,7 +29,7 @@
    
 
 [email]: mailto:barvepratik96@gmail.com
-[github]: https://github.com/iamstarstuff/
+[github]: https://iamstarstuff.github.io/
 [twitter]: https://twitter.com/astropratikb
 [linkedin]: https://linkedin.com/in/pratik-barve/
 
