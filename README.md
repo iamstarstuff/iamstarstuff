@@ -22,6 +22,8 @@
  
   Check out these cool [Physics visualisations](https://github.com/iamstarstuff/PhysicStuff/tree/main/Physics%20Programs) and [Math](https://github.com/iamstarstuff/PhysicStuff/tree/main/Math%20Programs) codes I wrote. 
   
+  Check out some of the [projects I have completed here](https://iamstarstuff.github.io/projects/).
+  
   [Link for my detailed CV](https://iamstarstuff.github.io/pratik-barve-cv/cv.pdf)
   
   
