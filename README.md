@@ -14,7 +14,7 @@
 
 <div align="justify">
   
-  I am currently working as a Technology Analyst at AIB Ireland. My interests lie in the fields of computer vision, NLP, neural networks, ML and Big Data. 
+  I am currently working as a Data Analyst in Payments & Splunk CoE (Center of Excellence) teams at AIB Ireland. My interests lie in the fields of computer vision, NLP, neural networks, ML and Big Data. 
   
   I am an amateur astronomer and astrophotographer, passionate about science, technology and art. 
   
