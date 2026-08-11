@@ -23,8 +23,13 @@
   Check out these cool [Physics visualisations](https://github.com/iamstarstuff/PhysicStuff/tree/main/Physics%20Programs) and [Math](https://github.com/iamstarstuff/PhysicStuff/tree/main/Math%20Programs) codes I tried.
   
   Links: 
+
   [Portfolio - pratikbarve.com](https://pratikbarve.com)
+
+
   [PhysicStuff - Physics Blog](https://physicstuff.com)
+
+
   [DividendCase - Finance Webapp](https://dividendcase.com))
   
   
