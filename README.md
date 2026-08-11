@@ -30,7 +30,7 @@
   [PhysicStuff - Physics Blog](https://physicstuff.com)
 
 
-  [DividendCase - Finance Webapp](https://dividendcase.com))
+  [DividendCase - Finance Webapp](https://dividendcase.com)
   
   
 </div>
