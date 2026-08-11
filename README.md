@@ -22,8 +22,10 @@
  
   Check out these cool [Physics visualisations](https://github.com/iamstarstuff/PhysicStuff/tree/main/Physics%20Programs) and [Math](https://github.com/iamstarstuff/PhysicStuff/tree/main/Math%20Programs) codes I tried.
   
-  Check out some of the [projects I am working on](https://pratikbarve.com/#projects).
-  [Portfolio](https://pratikbarve.com)
+  Links: 
+  [Portfolio - pratikbarve.com](https://pratikbarve.com)
+  [PhysicStuff - Physics Blog](https://physicstuff.com)
+  [DividendCase - Finance Webapp](https://dividendcase.com))
   
   
 </div>
